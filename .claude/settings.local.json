@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(convert \"D:/Kayi-PPT-Skill/assets/bg_cover.jpeg\" \"D:/Kayi-PPT-Skill/assets/bg_cover.png\")",
+      "Read(//c/Users/chchu/.claude/skills/**)",
+      "Read(//d/Kayi-PPT-Skill/$USERPROFILE/.claude/**)"
+    ]
+  }
+}
